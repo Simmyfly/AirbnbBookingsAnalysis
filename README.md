@@ -1,2 +1,9 @@
 # AirbnbBookingsAnalysis
-Analyze user booking data of Airbnb and show insights on graphics
+a web page that analyzes user booking data of Airbnb and shows insights on graphics<br/>
+<p><br/>
+User can interact with the graph by selecting filters on the left hand side.<br/>
+<p>
+<img src="Images/screenshot21.png" width="550"><br/>
+<p>
+<p>Compare data between different countries, divices, and genders<br/><br/>
+<img src="Images/screenshot22.png" width="575">

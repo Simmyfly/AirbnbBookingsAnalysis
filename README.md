@@ -3,7 +3,7 @@ a web page that analyzes user booking data of Airbnb and shows insights on graph
 <p><br/>
 User can interact with the graph by selecting filters on the left hand side.<br/>
 <p>
-<img src="Images/screenshot21.png" width="550"><br/>
+<img src="images/screenshot21.png" width="550"><br/>
 <p>
 <p>Compare data between different countries, divices, and genders<br/><br/>
-<img src="Images/screenshot22.png" width="575">
+<img src="images/screenshot22.png" width="575">

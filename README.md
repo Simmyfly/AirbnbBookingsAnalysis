@@ -1,7 +1,7 @@
 # AirbnbBookingsAnalysis
 a web page that analyzes user booking data of Airbnb and shows insights on graphics<br/>
 <p><br/>
-User can interact with the graph by selecting filters on the left hand side.<br/>
+User can interact with the graph by selecting filters on the right hand side.<br/>
 <p>
 <img src="images/screenshot21.png" width="550"><br/>
 <p>
